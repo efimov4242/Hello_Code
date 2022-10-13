@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.AssemblyInfo.cs
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\bin\Debug\net6.0\HomeWork01_DogFriends.exe
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\bin\Debug\net6.0\HomeWork01_DogFriends.deps.json
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\bin\Debug\net6.0\HomeWork01_DogFriends.runtimeconfig.json
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\bin\Debug\net6.0\HomeWork01_DogFriends.dll
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\bin\Debug\net6.0\ref\HomeWork01_DogFriends.dll
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\bin\Debug\net6.0\HomeWork01_DogFriends.pdb
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.dll
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\ref\HomeWork01_DogFriends.dll
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.pdb
+C:\Users\admin\Desktop\GB\Examples01\HomeWork01_DogFriends\obj\Debug\net6.0\HomeWork01_DogFriends.genruntimeconfig.cache
