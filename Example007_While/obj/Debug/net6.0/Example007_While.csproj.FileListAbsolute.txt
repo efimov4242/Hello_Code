@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\bin\Debug\net6.0\Example007_While.exe
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\bin\Debug\net6.0\Example007_While.deps.json
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\bin\Debug\net6.0\Example007_While.runtimeconfig.json
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\bin\Debug\net6.0\Example007_While.dll
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\bin\Debug\net6.0\ref\Example007_While.dll
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\bin\Debug\net6.0\Example007_While.pdb
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.AssemblyInfo.cs
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.dll
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\ref\Example007_While.dll
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.pdb
+C:\Users\admin\Desktop\GB\Examples01\Example007_While\obj\Debug\net6.0\Example007_While.genruntimeconfig.cache
